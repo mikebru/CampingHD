@@ -15,10 +15,10 @@ MonoBehaviour:
   profile:
     name: Diffusion Profile
     scatteringDistance: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    transmissionTint: {r: 1, g: 1, b: 1, a: 1}
+    transmissionTint: {r: 2, g: 2, b: 2, a: 1}
     texturingMode: 0
     transmissionMode: 1
-    thicknessRemap: {x: 0, y: 0.2830168}
+    thicknessRemap: {x: 0, y: 0.6131343}
     worldScale: 0.1
     ior: 1.355
     hash: 1080296287
