@@ -170,11 +170,11 @@ MonoBehaviour:
   m_AdvancedMode: 0
   depthExtent:
     m_OverrideState: 1
-    m_Value: 26.7
+    m_Value: 40.15
     min: 0.1
   sliceDistributionUniformity:
     m_OverrideState: 0
-    m_Value: 0.75
+    m_Value: 0.803
     min: 0
     max: 1
 --- !u!114 &-1383033285280250380
@@ -234,10 +234,10 @@ MonoBehaviour:
     min: 1
   baseHeight:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: -8.39
   meanHeight:
-    m_OverrideState: 0
-    m_Value: 10
+    m_OverrideState: 1
+    m_Value: 243.8
   anisotropy:
     m_OverrideState: 0
     m_Value: 0
